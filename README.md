@@ -39,6 +39,7 @@ Hello! I'm Application Developer.
 <div align=center> 
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
 <img src="https://img.shields.io/badge/Flow-512BD4?style=for-the-badge&logo=flow&logoColor=white">
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 </div>
 
 ## CI/CD
