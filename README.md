@@ -21,14 +21,8 @@ Hello! I'm Application Developer.
 <br><br>
 
 # 🔗 Link
-[![Profile](https://img.shields.io/badge/Tistory-00B000?style=flat&logoColor=white)]("[https://cocoon1787.tistory.com/](https://tiny-appendix-f3f.notion.site/Profile-a76748d5278942bd824e01f609368444?pvs=4))
+  [![Tistory Badge](https://img.shields.io/badge/Tistory-00B000?style=flat&logoColor=white)]("https://newbigwater.tistory.com/)
 <a href="mailto:newbigwater@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
 </div>
-
-
-
-
-
-
