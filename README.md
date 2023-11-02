@@ -12,10 +12,14 @@ Hello! I'm Application Developer.
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 </div>
+<div align=center> 
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+</div>
 
 ## Environment
 <div align=center> 
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+<img src="https://img.shields.io/badge/Flow-512BD4?style=for-the-badge&logo=flow&logoColor=white">
 </div>
 
 ## Database
