@@ -16,12 +16,6 @@ Hello! I'm Application Developer.
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
 </div>
 
-## Environment
-<div align=center> 
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
-<img src="https://img.shields.io/badge/Flow-512BD4?style=for-the-badge&logo=flow&logoColor=white">
-</div>
-
 ## Database
 <div align=center> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
@@ -29,6 +23,16 @@ Hello! I'm Application Developer.
 <img src="https://img.shields.io/badge/MsSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+</div>
+
+## Environment
+<div align=center> 
+<img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
+</div>
+<div align=center> 
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+<img src="https://img.shields.io/badge/Flow-512BD4?style=for-the-badge&logo=flow&logoColor=white">
 </div>
 
 ## CI/CD
