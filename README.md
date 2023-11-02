@@ -5,12 +5,17 @@ Hello! I'm Application Developer.
 <br><br>
 
 # 🛠️ Tech stack
-## lenguage
+## Language
 <div align=center> 
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/c%23-512BD4?style=for-the-badge&logo=Csharp&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+</div>
+
+## Environment
+<div align=center> 
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
 </div>
 
 ## Database
