@@ -1,19 +1,12 @@
-
-
 <div align="center">
-  
-  # 👋 Hi there 👋  
-  Hello! I'm full stack junior developer  
-  I am interested in React, Java and Node.js  
-  I mostly use vscode and sometimes intellij as well  
-  <br>
-  🍕 is my favorite food and I love minecraft💎⛏️  
-  I drink 🍋 iced tea instead of ☕️ when 👨🏻‍💻
-  <br><br>
-  
-  # 🛠️ Tech stack
-  
-  <br><br>
+
+# 👋 Hi there 👋  
+Hello! I'm Application Developer.
+<br><br>
+
+# 🛠️ Tech stack
+
+<br><br>
   
 # 👨🏻‍💻 GitHub stats
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FK-Junyyy%2F&count_bg=%23FF00DD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
