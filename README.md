@@ -1,10 +1,9 @@
 
 <div align="center">
     
+# 👋 Hi there 👋  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=NewBigExcel&fontSize=90&animation=fadeIn&fontAlignY=30&desc=Hello!%20I'm%20Application%20Developer!&descAlignY=51&descAlign=62)
 
-# 👋 Hi there 👋  
-Hello! I'm Application Developer.
 <br><br>
 
 # 🛠️ Tech stack
