@@ -71,7 +71,8 @@
 <br><br>
 
 # 🔗 Link
-  [![Tistory Badge](https://img.shields.io/badge/Tistory-00B000?style=flat&logoColor=white)]("https://newbigwater.tistory.com/)
+[![Tistory Badge](https://img.shields.io/badge/Tistory-00B000?style=flat&logoColor=white)]("https://newbigwater.tistory.com/)
+
 <a href="mailto:newbigwater@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
