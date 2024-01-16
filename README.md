@@ -62,6 +62,7 @@
 ## Cloud
 <div align=center> 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
 </div>
 
 <br><br>
